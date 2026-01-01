@@ -30,7 +30,7 @@
     "@biomejs/biome": "1.9.4",
     "@commitlint/cli": "20.2.0",
     "@commitlint/config-conventional": "20.2.0",
-    "lefthook": "1.13.6",
+    "lefthook": "2.0.13",
     "plop": "4.0.4",
     "typescript": "5.9.3"
   }
