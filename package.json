@@ -28,8 +28,8 @@
   "devDependencies": {
     "@astrojs/check": "0.9.6",
     "@biomejs/biome": "1.9.4",
-    "@commitlint/cli": "20.4.1",
-    "@commitlint/config-conventional": "20.4.1",
+    "@commitlint/cli": "20.4.2",
+    "@commitlint/config-conventional": "20.4.2",
     "lefthook": "1.13.6",
     "plop": "4.0.5",
     "typescript": "5.9.3"
