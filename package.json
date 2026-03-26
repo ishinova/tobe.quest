@@ -22,14 +22,14 @@
   },
   "dependencies": {
     "@astrojs/cloudflare": "11.2.0",
-    "@astrojs/sitemap": "3.7.0",
+    "@astrojs/sitemap": "3.7.1",
     "astro": "4.16.19"
   },
   "devDependencies": {
-    "@astrojs/check": "0.9.6",
+    "@astrojs/check": "0.9.8",
     "@biomejs/biome": "1.9.4",
-    "@commitlint/cli": "20.4.3",
-    "@commitlint/config-conventional": "20.4.3",
+    "@commitlint/cli": "20.5.0",
+    "@commitlint/config-conventional": "20.5.0",
     "lefthook": "1.13.6",
     "plop": "4.0.5",
     "typescript": "5.9.3"
